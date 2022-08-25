@@ -4,39 +4,6 @@
     padding-right: 16px;
     margin: 0 auto;
 }
-.header{
-    margin: 0 auto;
-    padding-top: 308px;
-    padding-bottom: 308px;
-    display: flex;
-    justify-content: center;
-    height: calc(100vh);
-    background: url("../img/banner.png") center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-
-    color: $c_min;
-    h2{
-        font-size: $fz_m;
-        line-height: 42px;
-        font-weight: 700;
-        text-align: left;
-    }
-    p{
-        font-size: $fz_m;
-        line-height: 32px;
-        margin-bottom: 40px;
-        font-weight: 700;
-    }
-    ul{
-        display: flex;
-        justify-content: space-between;
-        width: 100%;
-        height: 60px;
-    }
-}
-
-
 .about{
     margin: 0 auto;
     padding: 56px;
